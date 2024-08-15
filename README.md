@@ -38,6 +38,8 @@ gaitober" => "gato"
 
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
+Mensaje secreto final: 
+felicidades por enfrentar este desafio y haberlo concluido con exito
 ---
 
 ### Autor:
